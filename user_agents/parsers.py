@@ -32,6 +32,7 @@ MOBILE_OS_FAMILIES = (
 MOBILE_BROWSER_FAMILIES = (
     'Opera Mobile',
     'Opera Mini',
+    'Zbooni',
 )
 
 TABLET_DEVICE_FAMILIES = (
